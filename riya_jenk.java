@@ -1,6 +1,6 @@
 public class riya_jenk{
     public static void main(String[] args) {
 
-        System.out.println("Hello Riya namaste");
+        System.out.println("Hey Riya Sharma!");
     }
 }
